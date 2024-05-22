@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "33wFur/aFMhbMJDrSPBGn13zMDbycSe9VjTm7kqJC4MNyqI/C8NFly364UYgmpHMnzcxKT5eNb4nRDXNzVyC0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samay\\source\\repos\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\samay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\samay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
